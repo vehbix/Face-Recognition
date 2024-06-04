@@ -108,12 +108,12 @@ class FaceRecognition:
             video_capture.release()
             cv2.destroyAllWindows()
             os.remove(resim)
-            face_recognitions = []
-            face_encodings = []
-            face_names = []
-            known_face_encodings = []
-            known_face_names = []
-            process_current_frame = True
+            self.face_recognitions = []
+            self.face_encodings = []
+            self.face_names = []
+            self.known_face_encodings = []
+            self.known_face_names = []
+            self.process_current_frame = True
 
             class FileInfoCollector:
                 def __init__(self, directory):
