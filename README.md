@@ -73,11 +73,14 @@ The information of recognized faces is saved in the images.json file:
 ## Images
  Some sample images obtained during the project:
 
-Recognized Face: `./faces/Elon.jpg`
+Recognized Face:
+![Elon.jpg](./faces/Elon.jpg)
 
-Post-Recognition Image: `./find/2024-05-22 14.15.58 Elon.jpg`
+Post-Recognition Image:
+![2024-05-22 14.15.58 Elon.jpg](./find/2024-05-22 14.15.58 Elon.jpg)
 
-JSON File Structure: `./find/images.json`
+JSON File Structure:
+![images.json](./find/images.json)
 
 ## Conclusion and Evaluation
 This project demonstrates a practical application of face recognition algorithms. 
@@ -163,12 +166,13 @@ Tanınan yüzlerin bilgileri images.json dosyasına kaydedilir:
 Proje kapsamında elde edilen bazı örnek görseller:
 
 Tanınan Yüz: 
-![jpg]/faces/Elon.jpg)
+![Elon.jpg](./faces/Elon.jpg)
 
 Tanıma Sonrası Görsel: 
-![jpg]/faces/2024-05-22 14.15.58 Elon.jpg)
+![2024-05-22 14.15.58 Elon.jpg](./find/2024-05-22 14.15.58 Elon.jpg)
 
-JSON Dosya Yapısı: `./find/images.json`
+JSON Dosya Yapısı:
+![images.json](./find/images.json)
 
 ## Sonuç ve Değerlendirme
 Bu proje, yüz tanıma algoritmalarının pratik bir uygulamasını göstermektedir. Yüksek doğruluk oranı ile tanıma yapabilen uygulama, belirli klasörlerdeki yüzleri tespit ederek, bilgilerini organize bir şekilde saklayabilmektedir.
