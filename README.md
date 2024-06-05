@@ -74,10 +74,10 @@ The information of recognized faces is saved in the images.json file:
  Some sample images obtained during the project:
 
 Recognized Face:
-![Elon.jpg](./faces/Elon.jpg)
+![Elon.jpg](./rdm/face.jpg)
 
 Post-Recognition Image:
-![Elon Recognition](./find/2024-06-04_11.55.09_Elon.jpg)
+![Elon Recognition](./rdm/detect.jpg)
 
 ## Conclusion and Evaluation
 This project demonstrates a practical application of face recognition algorithms. 
@@ -159,10 +159,10 @@ Tanınan yüzlerin bilgileri images.json dosyasına kaydedilir:
 Proje kapsamında elde edilen bazı örnek görseller:
 
 Tanınan Yüz: 
-![Elon.jpg](./faces/Elon.jpg)
+![Elon.jpg](./rdm/face.jpg)
 
 Tanıma Sonrası Görsel: 
-![Elon Recognition](./find/2024-06-04_11.55.09_Elon.jpg)
+![Elon Recognition](./rdm/detect.jpg)
 
 ## Sonuç ve Değerlendirme
 Bu proje, yüz tanıma algoritmalarının pratik bir uygulamasını göstermektedir. Yüksek doğruluk oranı ile tanıma yapabilen uygulama, belirli klasörlerdeki yüzleri tespit ederek, bilgilerini organize bir şekilde saklayabilmektedir.
