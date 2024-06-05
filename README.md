@@ -67,9 +67,11 @@ Tanınan yüzlerin bilgileri images.json dosyasına kaydedilir:
 ## Görseller
 Proje kapsamında elde edilen bazı örnek görseller:
 
-Tanınan Yüz: ![jpg]/faces/Elon.jpg)
+Tanınan Yüz: 
+![jpg]/faces/Elon.jpg)
 
-Tanıma Sonrası Görsel: ![jpg]/faces/2024-05-22 14.15.58 Elon.jpg)
+Tanıma Sonrası Görsel: 
+![jpg]/faces/2024-05-22 14.15.58 Elon.jpg)
 
 JSON Dosya Yapısı: `./find/images.json`
 
