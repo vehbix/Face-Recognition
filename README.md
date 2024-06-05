@@ -77,10 +77,7 @@ Recognized Face:
 ![Elon.jpg](./faces/Elon.jpg)
 
 Post-Recognition Image:
-![2024-05-22 14.15.58 Elon.jpg](./find/2024-05-22 14.15.58 Elon.jpg)
-
-JSON File Structure:
-![images.json](./find/images.json)
+![Elon Recognition](./find/2024-06-04_11.55.09_Elon.jpg)
 
 ## Conclusion and Evaluation
 This project demonstrates a practical application of face recognition algorithms. 
@@ -89,10 +86,6 @@ organizing the information effectively.
 
 Future work on the project could involve testing on larger datasets and integrating different 
 face recognition algorithms to improve performance and accuracy.
-
-
-
-
 
 
 
@@ -169,10 +162,7 @@ Tanınan Yüz:
 ![Elon.jpg](./faces/Elon.jpg)
 
 Tanıma Sonrası Görsel: 
-![2024-05-22 14.15.58 Elon.jpg](./find/2024-05-22 14.15.58 Elon.jpg)
-
-JSON Dosya Yapısı:
-![images.json](./find/images.json)
+![Elon Recognition](./find/2024-06-04_11.55.09_Elon.jpg)
 
 ## Sonuç ve Değerlendirme
 Bu proje, yüz tanıma algoritmalarının pratik bir uygulamasını göstermektedir. Yüksek doğruluk oranı ile tanıma yapabilen uygulama, belirli klasörlerdeki yüzleri tespit ederek, bilgilerini organize bir şekilde saklayabilmektedir.
